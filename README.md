@@ -1,8 +1,8 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-### Hi, I'm [Nitesh Bawane] 👨‍💻 | **Quality Analyst** | **Automation & Manual Testing Specialist**
+### Hi, I'm Nitesh Bawane 👨‍💻 | **Quality Analyst** | **Automation & Manual Testing Specialist**
 
-
+![logo](https://github.com/NiteshBawane/Nitesh_QA/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)
 ---
 
 ## 🧑‍💻 **About Me**
@@ -64,6 +64,8 @@ Explore some of my featured repositories:
 📫 **Email**: [bawanenitesh90@gmail.com](mailto:bawanenitesh90@gmail.com)  
 💼 **LinkedIn**: [www.linkedin.com/in/nitesh-bawane-qa](#)  
 🌐 **Portfolio**: [https://www.polywork.com/nitesh_bawane](#)
+
+
 
 ---
 

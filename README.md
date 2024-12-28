@@ -2,7 +2,6 @@
 
 ### Hi, I'm [Nitesh Bawane] 👨‍💻 | **Quality Analyst** | **Automation & Manual Testing Specialist**
 
-![https://images.app.goo.gl/jy9Aa8mdLx7fHTwD8)] 
 
 ---
 
@@ -68,4 +67,3 @@ Explore some of my featured repositories:
 
 ---
 
-![https://sl.bing.net/f1s6nBb7BJc]

@@ -25,6 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiteshBawane&show_icons=true&locale=en" alt="NiteshBawane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshBawane&" alt="NiteshBawane" /></p>
 
 ![logo](https://github.com/NiteshBawane/Nitesh_QA/blob/main/download.jpg)

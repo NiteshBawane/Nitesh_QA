@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiteshBawane&show_icons=true&locale=en" alt="NiteshBawane" /></p>
 
 
-![logo](https://github.com/NiteshBawane/Nitesh_QA/blob/main/1702293190617.jfif)
+![logo](https://github.com/NiteshBawane/Nitesh_QA/blob/main/footer.jfif)
